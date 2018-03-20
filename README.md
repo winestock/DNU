@@ -18,6 +18,9 @@ Unfortunately, commas and newline characters may appear in legitimate textual da
 
 [RFC 4180](https://tools.ietf.org/html/rfc4180) attempted to retroactively bring some order to the chaos, but it was released in late 2005, too late to turn a quick & dirty hack into a truly standard file format.  As [one Hacker News commenter](https://news.ycombinator.com/item?id=13266109) put it, *CSV is less a file format and more a hypothetical construct like "peace on Earth".*
 
+## The Goal
+
+
 ## The Name
 
 Of course, making such a format would put it in competition with CSV, TSV, and so forth.  If it were to become common, then pressure would be brought to bear on the developers of standard tools to handle it.  The maintainers of those tools would be most cross with me for forcing them to make even more special cases in their code.  Therefore, I make this standard only for my own amusement.  That means **do not use this in production**.  To further mark this as an amateur project of the 'scratch an itch' variety, I have given it an extension of DNU, for *Do Not Use*.
