@@ -14,12 +14,12 @@ This project was inspired by [this](https://ronaldduncan.wordpress.com/2009/10/3
 
 Here's the basic idea.  Long ago, everyone felt the need to transfer text in a database-like format between user-level programs.  So someone (likely, several someones) came up with the quick & dirty hack of putting this information in a text file where each record was its own line and each field was separated by commas.  Such a simple convention was trivial to encode by the sending application and trivial to decode by the receiving application.
 
+Unfortunately, commas and newline characters may appear in legitimate textual data, so they must be escaped if they appear in a field.  The character used to escape them must itself be escaped if it appears in a field literally.  Furthermore, different locales treat commas differently than in the United States.  Then there's the fact that line breaks have never been standardised.  Unix uses ASCII 10 (LF for Line Feed) as a newline character while MS-Windows adds the Carriage Return character to make the ASCII sequence '13 10' (CR LF).
 
+[RFC 4180](https://tools.ietf.org/html/rfc4180) attempted to retroactively bring some order to the chaos, but it was released in late 2005, too late to turn a quick & dirty hack into a truly standard file format.  As [one Hacker News commenter](https://news.ycombinator.com/item?id=13266109) put it, *CSV is less a file format and more a hypothetical construct like "peace on Earth".*
 
 ## The Name
 
 Of course, making such a format would put it in competition with CSV, TSV, and so forth.  If it were to become common, then pressure would be brought to bear on the developers of standard tools to handle it.  The maintainers of those tools would be most cross with me for forcing them to make even more special cases in their code.  Therefore, I make this standard only for my own amusement.  That means **do not use this in production**.  To further mark this as an amateur project of the 'scratch an itch' variety, I have given it an extension of DNU, for *Do Not Use*.
-
-to accomodate a file format that's more a haphazard collection of hacks than a real standard.  As [one Hacker News commenter](https://news.ycombinator.com/item?id=13266109) put it, *CSV is less a file format and more a hypothetical construct like "peace on Earth".*
 
 And if you don't like how this Readme looks, never fear.  I will consult [this page](https://github.com/matiassingers/awesome-readme) in order to make a Readme that will help you.
