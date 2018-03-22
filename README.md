@@ -22,6 +22,8 @@ Unfortunately, commas and newline characters may appear in legitimate textual da
 
 Imagine if programmers in the 1960s & 1970s had actually paid attention to the ASCII standard instead of making the quick hack called CSV.  That's the point of this project.  I don't expect this file format to sweep all before it and settle the issues with CSV files once and for all.  I'm doing this to teach myself how to make a real file format, however simple.
 
+In addition to the file format, I will also make some simple command line tools to manipulate files in that format.  They will perform functions similar to the Unix find, sort, wc, and other tools.
+
 ## The Name
 
 Of course, making such a format would put it in competition with CSV, TSV, and so forth.  If it were to become common, then pressure would be brought to bear on the developers of standard tools to handle it.  The maintainers of those tools would be most cross with me for forcing them to make even more special cases in their code.  Therefore, I make this standard only for my own amusement.  That means **do not use this in production**.  To further mark this as an amateur project of the 'scratch an itch' variety, I have given it an extension of DNU, for *Do Not Use*.
