@@ -29,3 +29,14 @@ In addition to the file format, I will also make some simple command line tools 
 Of course, making such a format would put it in competition with CSV, TSV, and so forth.  If it were to become common, then pressure would be brought to bear on the developers of standard tools to handle it.  The maintainers of those tools would be most cross with me for forcing them to make even more special cases in their code.  Therefore, I make this standard only for my own amusement.  That means **do not use this in production**.  To further mark this as an amateur project of the 'scratch an itch' variety, I have given it an extension of DNU, for *Do Not Use*.
 
 And if you don't like how this Readme looks, never fear.  I will consult [this page](https://github.com/matiassingers/awesome-readme) in order to make a Readme that will help you.
+
+## Links
+
+- [Falsehoods Programmers Believe About CSVs](https://donatstudios.com/Falsehoods-Programmers-Believe-About-CSVs)
+- [Hacker News Discussion of the Previous Link](https://news.ycombinator.com/item?id=13265881)
+- [Comma Separated Vulnerabilities](https://www.contextis.com/resources/blog/comma-separated-vulnerabilities/)
+- [Hacker News Discussion of the Previous Link](https://news.ycombinator.com/item?id=14489794)
+- [Dangeres of CSV Injection](http://georgemauer.net/2017/10/07/csv-injection.html)
+- [Hacker News Discussion of the Previous Link](http://georgemauer.net/2017/10/07/csv-injection.html)
+- [Design and Implementation of CSV/Excel Upload for SaaS](http://www.kalzumeus.com/2015/01/28/design-and-implementation-of-csvexcel-upload-for-saas/)
+- [Hacker News Discussion of the Previous Link](https://news.ycombinator.com/item?id=8960280)
