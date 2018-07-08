@@ -47,3 +47,14 @@ Other:
 
 - [Ask Hacker News: If your job involves continually importing CSVs, what industry is it?](https://news.ycombinator.com/item?id=13275834)
 - [CSV Challenge](https://news.ycombinator.com/item?id=9438109) (NB, original is a dead link)
+- [So You Want To Write Your Own CSV Code?](http://thomasburette.com/blog/2014/05/25/so-you-want-to-write-your-own-CSV-code/)
+
+To Do (I will consult these links and update as needed.):
+
+- https://news.ycombinator.com/item?id=8960280
+- https://news.ycombinator.com/item?id=9088805
+- https://news.ycombinator.com/item?id=8128775
+- https://news.ycombinator.com/item?id=9320808
+- https://news.ycombinator.com/item?id=9438109
+- https://news.ycombinator.com/item?id=7474600
+- https://news.ycombinator.com/item?id=10066742
