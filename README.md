@@ -32,29 +32,19 @@ And if you don't like how this Readme looks, never fear.  I will consult [this p
 
 ## Links
 
+Possibly-Related Software:
+
+
+
 Problems with CSV Files:
 
-- [Falsehoods Programmers Believe About CSVs](https://donatstudios.com/Falsehoods-Programmers-Believe-About-CSVs)
-- [Hacker News Discussion of the Previous Link](https://news.ycombinator.com/item?id=13265881)
-- [Comma Separated Vulnerabilities](https://www.contextis.com/resources/blog/comma-separated-vulnerabilities/)
-- [Hacker News Discussion of the Previous Link](https://news.ycombinator.com/item?id=14489794)
-- [Dangers of CSV Injection](http://georgemauer.net/2017/10/07/csv-injection.html)
-- [Hacker News Discussion of the Previous Link](http://georgemauer.net/2017/10/07/csv-injection.html)
-- [Design and Implementation of CSV/Excel Upload for SaaS](http://www.kalzumeus.com/2015/01/28/design-and-implementation-of-csvexcel-upload-for-saas/)
-- [Hacker News Discussion of the Previous Link](https://news.ycombinator.com/item?id=8960280)
+- [Falsehoods Programmers Believe About CSVs](https://donatstudios.com/Falsehoods-Programmers-Believe-About-CSVs) [(Hacker News Discussion)](https://news.ycombinator.com/item?id=13265881)
+- [Comma Separated Vulnerabilities](https://www.contextis.com/resources/blog/comma-separated-vulnerabilities/) [(Hacker News Discussion)](https://news.ycombinator.com/item?id=14489794)
+- [Dangers of CSV Injection](http://georgemauer.net/2017/10/07/csv-injection.html) [(Hacker News Discussion)](http://georgemauer.net/2017/10/07/csv-injection.html)
+- [Design and Implementation of CSV/Excel Upload for SaaS](http://www.kalzumeus.com/2015/01/28/design-and-implementation-of-csvexcel-upload-for-saas/) [(Hacker News Discussion)](https://news.ycombinator.com/item?id=8960280)  Key Quote: “It is _hellaciously_ difficult to do CSV import well in the general case.”
 
-Other:
+Other Links:
 
 - [Ask Hacker News: If your job involves continually importing CSVs, what industry is it?](https://news.ycombinator.com/item?id=13275834)
 - [CSV Challenge](https://news.ycombinator.com/item?id=9438109) (NB, original is a dead link)
 - [So You Want To Write Your Own CSV Code?](http://thomasburette.com/blog/2014/05/25/so-you-want-to-write-your-own-CSV-code/)
-
-To Do (I will consult these links and update as needed.):
-
-- https://news.ycombinator.com/item?id=8960280
-- https://news.ycombinator.com/item?id=9088805
-- https://news.ycombinator.com/item?id=8128775
-- https://news.ycombinator.com/item?id=9320808
-- https://news.ycombinator.com/item?id=9438109
-- https://news.ycombinator.com/item?id=7474600
-- https://news.ycombinator.com/item?id=10066742
