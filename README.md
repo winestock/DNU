@@ -36,6 +36,8 @@ Possibly-Related Software:
 
 - [Tad](https://www.tadviewer.com/): A Desktop Viewer for Tabular Data.  [(Hacker News Discussion)](https://news.ycombinator.com/item?id=14448911)
 - [Recfiles](https://www.gnu.org/software/recutils/): Plain Text, Human-Readable Databases.  [(Hacker News Discussion)](https://news.ycombinator.com/item?id=9320808)  [(More Hacker News Discussion)](https://news.ycombinator.com/item?id=15302035)
+- [sortcsv](https://github.com/johnweldon/sortcsv):  This sorts CSV files by named columns.  The [discussion](https://news.ycombinator.com/item?id=16079443) on Hacker News has pointers to similar software.
+- [jsonexport](https://www.npmjs.com/package/jsonexport):  This converts JSON files to CSV.  [(Hacker News Discussion)](https://news.ycombinator.com/item?id=14516477)
 
 Problems with CSV Files:
 
