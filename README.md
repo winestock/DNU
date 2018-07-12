@@ -34,10 +34,14 @@ And if you don't like how this Readme looks, never fear.  I will consult [this p
 
 Possibly-Related Software:
 
-- [Tad](https://www.tadviewer.com/): A Desktop Viewer for Tabular Data.  [(Hacker News Discussion)](https://news.ycombinator.com/item?id=14448911)
-- [Recfiles](https://www.gnu.org/software/recutils/): Plain Text, Human-Readable Databases.  [(Hacker News Discussion)](https://news.ycombinator.com/item?id=9320808)  [(More Hacker News Discussion)](https://news.ycombinator.com/item?id=15302035)
-- [sortcsv](https://github.com/johnweldon/sortcsv):  This sorts CSV files by named columns.  The [discussion](https://news.ycombinator.com/item?id=16079443) on Hacker News has pointers to similar software.
-- [jsonexport](https://www.npmjs.com/package/jsonexport):  This converts JSON files to CSV.  [(Hacker News Discussion)](https://news.ycombinator.com/item?id=14516477)
+- [Tad](https://www.tadviewer.com/) is a desktop viewer for tabular data.  [(Hacker News Discussion)](https://news.ycombinator.com/item?id=14448911)
+- [Recfiles](https://www.gnu.org/software/recutils/) are plain text, human-readable databases.  [(Hacker News Discussion)](https://news.ycombinator.com/item?id=9320808)  [(More Hacker News Discussion)](https://news.ycombinator.com/item?id=15302035)
+- [sortcsv](https://github.com/johnweldon/sortcsv) sorts CSV files by named columns.  The [discussion](https://news.ycombinator.com/item?id=16079443) on Hacker News has pointers to similar software.
+- [jsonexport](https://www.npmjs.com/package/jsonexport) converts JSON files to CSV.  [(Hacker News Discussion)](https://news.ycombinator.com/item?id=14516477)
+- [tably](https://github.com/narimiran/tably) converts CSV to LaTeX tables.  [(Hacker News Discussion)](https://news.ycombinator.com/item?id=15432628)
+- [Miller](http://johnkerl.org/miller/doc/index.html) combines the functions of awk, sed, cut, join, and sort for name-indexed data such as CSV or tabular JSON.  [(Hacker News Discussion)](https://news.ycombinator.com/item?id=10066742)
+- [Andrew Gallant's Guide to Parsing CSV Files with Rust](https://blog.burntsushi.net/csv/)  This is aimed at beginning Rust programmers.  [(Hacker News Discussion)](https://news.ycombinator.com/item?id=14527349)
+- Speaking of Andrew Gallant, here's his [xsv](https://github.com/BurntSushi/xsv) toolkit.  [(Hacker News Discussion)](https://news.ycombinator.com/item?id=9088805)
 
 Problems with CSV Files:
 
