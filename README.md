@@ -50,6 +50,7 @@ Problems with CSV Files:
 - [Comma Separated Vulnerabilities](https://www.contextis.com/resources/blog/comma-separated-vulnerabilities/) [(Hacker News Discussion)](https://news.ycombinator.com/item?id=14489794)
 - [Dangers of CSV Injection](http://georgemauer.net/2017/10/07/csv-injection.html) [(Hacker News Discussion)](http://georgemauer.net/2017/10/07/csv-injection.html)
 - [Design and Implementation of CSV/Excel Upload for SaaS](http://www.kalzumeus.com/2015/01/28/design-and-implementation-of-csvexcel-upload-for-saas/) [(Hacker News Discussion)](https://news.ycombinator.com/item?id=8960280)  Key Quote: “It is _hellaciously_ difficult to do CSV import well in the general case.”
+- [DataHub's overview](https://datahub.io/docs/data-packages/csv#what-is-bad-about-csv) of what is wrong with CSV.
 
 Other Links:
 
