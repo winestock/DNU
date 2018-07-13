@@ -42,6 +42,7 @@ Possibly-Related Software:
 - [Miller](http://johnkerl.org/miller/doc/index.html) combines the functions of awk, sed, cut, join, and sort for name-indexed data such as CSV or tabular JSON.  [(Hacker News Discussion)](https://news.ycombinator.com/item?id=10066742)
 - [Andrew Gallant's Guide to Parsing CSV Files with Rust](https://blog.burntsushi.net/csv/)  This is aimed at beginning Rust programmers.  [(Hacker News Discussion)](https://news.ycombinator.com/item?id=14527349)
 - Speaking of Andrew Gallant, here's his [xsv](https://github.com/BurntSushi/xsv) toolkit.  [(Hacker News Discussion)](https://news.ycombinator.com/item?id=9088805)
+- [Here](https://coderexample.com/reading-csv-file-using-javascript/) is an example of reading CSV files in JavaScript using [Papa Parse](http://papaparse.com/).
 
 Problems with CSV Files:
 
