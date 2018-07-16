@@ -58,4 +58,3 @@ Other Links:
 - [Ask Hacker News: If your job involves continually importing CSVs, what industry is it?](https://news.ycombinator.com/item?id=13275834)
 - [CSV Challenge](https://news.ycombinator.com/item?id=9438109) (NB, original is a dead link)
 - [So You Want To Write Your Own CSV Code?](http://thomasburette.com/blog/2014/05/25/so-you-want-to-write-your-own-CSV-code/)  [(Hacker News Discussion)](https://news.ycombinator.com/item?id=7796268)  [(Proggit Discussion)](http://www.reddit.com/r/programming/comments/26g24y/so_you_want_to_write_your_own_csv_code/)
-- [RFC 4180](http://tools.ietf.org/html/rfc4180) is the _very_ after-the-fact attempt at standardizing the CSV file format.
