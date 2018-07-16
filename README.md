@@ -44,7 +44,8 @@ Possibly-Related Software:
 - Speaking of Andrew Gallant, here's his [xsv](https://github.com/BurntSushi/xsv) toolkit.  [(Hacker News Discussion)](https://news.ycombinator.com/item?id=9088805)
 - [Here](https://coderexample.com/reading-csv-file-using-javascript/) is an example of reading CSV files in JavaScript using [Papa Parse](http://papaparse.com/).  [(Hacker News Discussion of Papa Parse)](https://news.ycombinator.com/item?id=8042051)
 - [csvkit](http://csvkit.readthedocs.io/en/1.0.3/) is a suite of command-line tools for converting to and working with CSV, the king of tabular file formats.
-- [CTX](http://www.creativyst.com/Doc/Std/ctx/ctx.htm) is a more precisely defined and functional alternative to CSV.
+- [CTX](http://www.creativyst.com/Doc/Std/ctx/ctx.htm) “is a more precisely defined and functional alternative to CSV.”
+- [Fielded Text](http://www.fieldedtext.org/) is another fix for CSV files.
 
 Problems with CSV Files:
 
