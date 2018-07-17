@@ -47,6 +47,7 @@ Possibly-Related Software:
 - [CTX](http://www.creativyst.com/Doc/Std/ctx/ctx.htm) “is a more precisely defined and functional alternative to CSV.”
 - [Fielded Text](http://www.fieldedtext.org/) is another fix for CSV files.
 - [Semantic CSV](https://github.com/metasoarous/semantic-csv) is a Clojure library which deals with the semantics of CSV files whereas other tools tend to deal with the syntax of CSV files.
+- Dan Brown's [csvquote](https://github.com/dbro/csvquote) uses “harmless non-printing characters” to make parsing CSV files easier for Unix utilities.
 
 Problems with CSV Files:
 
