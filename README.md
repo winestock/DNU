@@ -46,6 +46,7 @@ Possibly-Related Software:
 - [csvkit](http://csvkit.readthedocs.io/en/1.0.3/) is a suite of command-line tools for converting to and working with CSV, the king of tabular file formats.
 - [CTX](http://www.creativyst.com/Doc/Std/ctx/ctx.htm) “is a more precisely defined and functional alternative to CSV.”
 - [Fielded Text](http://www.fieldedtext.org/) is another fix for CSV files.
+- [Semantic CSV](https://github.com/metasoarous/semantic-csv) is a Clojure library which deals with the semantics of CSV files whereas other tools tend to deal with the syntax of CSV files.
 
 Problems with CSV Files:
 
