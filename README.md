@@ -49,6 +49,7 @@ Possibly-Related Software:
 - [Semantic CSV](https://github.com/metasoarous/semantic-csv) is a Clojure library which deals with the semantics of CSV files whereas other tools tend to deal with the syntax of CSV files.
 - Dan Brown's [csvquote](https://github.com/dbro/csvquote) uses “harmless non-printing characters” to make parsing CSV files easier for Unix utilities.
 - [Here](https://github.com/knrz/CSV.js) is Kash Nouroozi's RFC 4180-compliant JavaScript CSV parser.
+- [csvfaker](https://github.com/pereorga/csvfaker) is a Python program that generates CSV files with fake data.  It is part of D. Bohdan's [list](https://github.com/dbohdan/structured-text-tools) of structured text tools.
 
 Problems with CSV Files:
 
