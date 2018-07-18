@@ -48,6 +48,7 @@ Possibly-Related Software:
 - [Fielded Text](http://www.fieldedtext.org/) is another fix for CSV files.
 - [Semantic CSV](https://github.com/metasoarous/semantic-csv) is a Clojure library which deals with the semantics of CSV files whereas other tools tend to deal with the syntax of CSV files.
 - Dan Brown's [csvquote](https://github.com/dbro/csvquote) uses “harmless non-printing characters” to make parsing CSV files easier for Unix utilities.
+- [Here](https://github.com/knrz/CSV.js) is Kash Nouroozi's RFC 4180-compliant JavaScript CSV parser.
 
 Problems with CSV Files:
 
