@@ -55,7 +55,7 @@ Possibly-Related Software:
 
 Problems with CSV Files:
 
-- [Falsehoods Programmers Believe About CSVs](https://donatstudios.com/Falsehoods-Programmers-Believe-About-CSVs) [(Hacker News Discussion)](https://news.ycombinator.com/item?id=13265881)
+- [Falsehoods Programmers Believe About CSVs](https://donatstudios.com/Falsehoods-Programmers-Believe-About-CSVs) [(Hacker News Discussion)](https://news.ycombinator.com/item?id=13265881)  [(More Hacker News Discussion)](https://news.ycombinator.com/item?id=16809963)
 - [Comma Separated Vulnerabilities](https://www.contextis.com/resources/blog/comma-separated-vulnerabilities/) [(Hacker News Discussion)](https://news.ycombinator.com/item?id=14489794)
 - [Dangers of CSV Injection](http://georgemauer.net/2017/10/07/csv-injection.html) [(Hacker News Discussion)](https://news.ycombinator.com/item?id=15438894)
 - [Design and Implementation of CSV/Excel Upload for SaaS](http://www.kalzumeus.com/2015/01/28/design-and-implementation-of-csvexcel-upload-for-saas/) [(Hacker News Discussion)](https://news.ycombinator.com/item?id=8960280)  Key Quote: “It is _hellaciously_ difficult to do CSV import well in the general case.”
