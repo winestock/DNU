@@ -28,6 +28,8 @@ In addition to the file format, I will also make some simple command line tools 
 
 Of course, making such a format would put it in competition with CSV, TSV, and so forth.  If it were to become common, then pressure would be brought to bear on the developers of standard tools to handle it.  The maintainers of those tools would be most cross with me for forcing them to make even more special cases in their code.  Therefore, I make this standard only for my own amusement.  That means **do not use this in production**.  To further mark this as an amateur project of the 'scratch an itch' variety, I have given it an extension of DNU, for *Do Not Use*.
 
+At one with this intention, I deliberately make this file format gratuitously incompatible with other character-separated file formats—both comma- and tab-separated value files.  In particular, I will take pains to make this format unreadable by Microsoft Excel.
+
 And if you don't like how this Readme looks, never fear.  I will consult [this page](https://github.com/matiassingers/awesome-readme) in order to make a Readme that will help you.
 
 ## Links
