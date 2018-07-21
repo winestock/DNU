@@ -32,6 +32,10 @@ At one with this intention, I deliberately make this file format gratuitously in
 
 And if you don't like how this Readme looks, never fear.  I will consult [this page](https://github.com/matiassingers/awesome-readme) in order to make a Readme that will help you.
 
+## Foundational Issues
+
+Now it's time to be a bit more precise and rigorous.  All of the characters discussed in this document are part of both the ASCII and Unicode standards.  That means that they are either text or are meant to facilitate the display or transmission of text.  The purpose of text is primarily to be read by humans and only secondarily to be processed by computer.
+
 ## Links
 
 Possibly-Related Software:
