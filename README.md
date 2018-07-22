@@ -36,6 +36,8 @@ And if you don't like how this Readme looks, never fear.  I will consult [this p
 
 Now it's time to be a bit more precise and rigorous.  All of the characters discussed in this document are part of both the ASCII and Unicode standards.  That means that they are either text or are meant to facilitate the display or transmission of text.  The purpose of text is primarily to be read by humans and only secondarily to be processed by computer.
 
+Text is stored as strings.  Therefore, DNU files may not contain non-string data.  Since text is meant for people to read, then DNU files are meant to store data from or transfer data between user-level programs.  The 1980s-era ARPAnet is no more; that means that user data is guilty until proven innocent.  Therefore, applications which use this format are at liberty—and may even be required—to throw away user data which does not conform to this standard.
+
 ## Links
 
 Possibly-Related Software:
