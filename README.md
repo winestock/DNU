@@ -38,6 +38,8 @@ Now it's time to be a bit more precise and rigorous.  All of the characters disc
 
 Text is stored as strings.  Therefore, DNU files may not contain non-string data.  Since text is meant for people to read, then DNU files are meant to store data from or transfer data between user-level programs.  The 1980s-era ARPAnet is no more; that means that user data is guilty until proven innocent.  Therefore, applications which use this format are at liberty—and may even be required—to throw away user data which does not conform to this standard.
 
+Consider some of the comments on [this](https://www.reddit.com/r/programming/comments/21hzgs/text_file_formats_ascii_delimited_text_not_csv_or/cgdc42g/) Reddit thread.
+
 ## Links
 
 Possibly-Related Software:
