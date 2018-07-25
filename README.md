@@ -48,6 +48,8 @@ Consider some of the comments on [this](https://www.reddit.com/r/programming/com
 
 **Answer:**  That objection may mean something in the realm of system software, but if you're sticking a CSV file in the very implementation of a device driver, or the runtime system of a programming language, or the guts of a file system, then you deserve whatever you get.
 
+Don't forget that the purpose of any character-separated data format is to transfer text between user-level applications.  Inevitably, some user data will be corrupt, nonsensical, or maliciously-formed into an attack vector.  In other words, user data may contain illegal characters.  Robust applications must take such situations into account.  In fact, even system software must take such situations into account, as well (e.g., buffer overflow attacks).
+
 ## Links
 
 Possibly-Related Software:
