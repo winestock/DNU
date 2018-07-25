@@ -44,6 +44,10 @@ Consider some of the comments on [this](https://www.reddit.com/r/programming/com
 
 **Answer:**  The whole point to having control codes in the ASCII standard is that they facilitate the display or transfer of text without themselves being text.  Nobody says “My name is J.Q. Doe _(the ASCII DEL is silent)_.”  Nobody has a home address whose street name is interspersed with form feed characters.  In such cases, the program dealing with such (possibly maliciously) corrupted data is required to strip out the offending control codes.
 
+**Objection:**  “So that would make this a data storage format that features silent data loss.  That means that I could feed it, say, a hundred bytes but I would have no guarantee of getting those same hundred bytes back.  I don't _think_ so.”
+
+**Answer:**  That objection may mean something in the realm of system software, but if you're sticking a CSV file in the very implementation of a device driver, or the runtime system of a programming language, or the guts of a file system, then you deserve whatever you get.
+
 ## Links
 
 Possibly-Related Software:
