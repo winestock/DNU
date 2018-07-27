@@ -50,6 +50,11 @@ Consider some of the comments on [this](https://www.reddit.com/r/programming/com
 
 Don't forget that the purpose of any character-separated data format is to transfer text between user-level applications.  Inevitably, some user data will be corrupt, nonsensical, or maliciously-formed into an attack vector.  In other words, user data may contain illegal characters.  Robust applications must take such situations into account.  In fact, even system software must take such situations into account, as well (e.g., buffer overflow attacks).
 
+**Objection:**  “What if I want to make a delimited list of delimited lists?”  _(Note: Even the person who raised this objection admitted that this was an esoteric use case.)_
+
+**Answer:**  _Any_ character-delimited text file is ill-suited to such a use case, [including CSV files](https://datahub.io/docs/data-packages/csv#what-is-bad-about-csv).  As the folks at DataHub point out, any CSV file “Works best for tabular data—not good for data with nesting or where structure is not especially tabular.”
+
+
 ## Links
 
 Possibly-Related Software:
