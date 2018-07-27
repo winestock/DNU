@@ -52,7 +52,7 @@ Don't forget that the purpose of any character-separated data format is to trans
 
 **Objection:**  “What if I want to make a delimited list of delimited lists?”  _(Note: Even the person who raised this objection admitted that this was an esoteric use case.)_
 
-**Answer:**  _Any_ character-delimited text file is ill-suited to such a use case, [including CSV files](https://datahub.io/docs/data-packages/csv#what-is-bad-about-csv).  As the folks at DataHub point out, any CSV file “Works best for tabular data—not good for data with nesting or where structure is not especially tabular.”
+**Answer:**  _Any_ character-delimited text file is ill-suited to such a use case, [including CSV files](https://datahub.io/docs/data-packages/csv#what-is-bad-about-csv).  As the folks at DataHub point out, any CSV file “Works best for tabular data—not good for data with nesting or where structure is not especially tabular.”  The [Wikipedia entry](https://en.wikipedia.org/wiki/Comma-separated_values#General_functionality) for CSV files agrees: “CSV cannot naturally represent hierarchical or object-oriented database or other data.”
 
 
 ## Links
