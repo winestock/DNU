@@ -54,6 +54,9 @@ Don't forget that the purpose of any character-separated data format is to trans
 
 **Answer:**  _Any_ character-delimited text file is ill-suited to such a use case, [including CSV files](https://datahub.io/docs/data-packages/csv#what-is-bad-about-csv).  As the folks at DataHub point out, any CSV file “Works best for tabular data—not good for data with nesting or where structure is not especially tabular.”  The [Wikipedia entry](https://en.wikipedia.org/wiki/Comma-separated_values#General_functionality) for CSV files agrees: “CSV cannot naturally represent hierarchical or object-oriented database or other data.”
 
+**Objection:**  “There is no way to edit such files with a text editor.”
+
+**Answer:**  Granted, most editors cannot do so, but several do.  More to the point, the existence of tabular data formats and all of the problems associated with them is evidence that text editors were always the wrong tool for the job.  As much as some of us nerds look down on it, the spreadsheet application was always the proper way to deal with tabular data—even if they were invented fifteen years too late.
 
 ## Links
 
