@@ -62,6 +62,7 @@ Don't forget that the purpose of any character-separated data format is to trans
 
 Possibly-Related Software:
 
+- [Christian Genco](http://christian.gen.co/) wrote an [implementation](https://gist.github.com/christiangenco/73a7cfdb03e381bff2e9) of ASCII Delimited Text in Ruby.
 - [Tad](https://www.tadviewer.com/) is a desktop viewer for tabular data.  [(Hacker News Discussion)](https://news.ycombinator.com/item?id=14448911)
 - [Recfiles](https://www.gnu.org/software/recutils/) are plain text, human-readable databases.  [(Hacker News Discussion)](https://news.ycombinator.com/item?id=9320808)  [(More Hacker News Discussion)](https://news.ycombinator.com/item?id=15302035)
 - [sortcsv](https://github.com/johnweldon/sortcsv) sorts CSV files by named columns.  The [discussion](https://news.ycombinator.com/item?id=16079443) on Hacker News has pointers to similar software.
