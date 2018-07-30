@@ -56,7 +56,7 @@ Don't forget that the purpose of any character-separated data format is to trans
 
 **Objection:**  “There are no dedicated keys for these delimiters on any keyboard and there is no way to easily type these delimiters using a text editor.”
 
-**Answer:**  Granted, most editors cannot do so, but several do.  More to the point, the existence of tabular data formats and all of the problems associated with them is evidence that text editors were always the wrong tool for the job.  As much as some of us nerds look down on it, the spreadsheet application was always the proper way to deal with tabular data—even if they were invented fifteen years too late.
+**Answer:**  Granted, most editors cannot do so, but several do.  More to the point, the problems of quoting delimiters is evidence that text editors were always the wrong tool for the job.  As much as some of us nerds look down on it, the spreadsheet application was always the proper way to deal with tabular data—even if they were invented fifteen years too late.  One of the aims of this project is to make appropriate tools for editing and viewing files in the DNU format.
 
 ## Links
 
