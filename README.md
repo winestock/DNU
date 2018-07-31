@@ -54,6 +54,10 @@ Don't forget that the purpose of any character-separated data format is to trans
 
 **Answer:**  _Any_ character-delimited text file is ill-suited to such a use case, [including CSV files](https://datahub.io/docs/data-packages/csv#what-is-bad-about-csv).  As the folks at DataHub point out, any CSV file “Works best for tabular data—not good for data with nesting or where structure is not especially tabular.”  The [Wikipedia entry](https://en.wikipedia.org/wiki/Comma-separated_values#General_functionality) for CSV files agrees: “CSV cannot naturally represent hierarchical or object-oriented database or other data.”
 
+**Objection:**  “Try this: Make a table of the ASCII character set using these delimiters.  Use one column for the ASCII numeric code, another column for a description of that character, and the last column for the literal character, itself.  You'll run into the escaping problem once you reach the columns that list these delimiters.”  _(Note: This is closely related to the previous objection.)_
+
+**Answer:**  In other words, this table would _describe_ the ASCII standard _in_ the ASCII standard to a program which already _uses_ the ASCII standard.  Apparently, this is a pressing problem which happens all the time in The Year of Our Lord Two Thousand and Whatevs.
+
 **Objection:**  “There are no dedicated keys for these delimiters on any keyboard and there is no way to easily type these delimiters using a text editor.”
 
 **Answer:**  Granted, most editors cannot do so, but several do.  More to the point, the problems of quoting delimiters is evidence that text editors were always the wrong tool for the job.  As much as some of us nerds look down on it, the spreadsheet application was always the proper way to deal with tabular data—even if they were invented fifteen years too late.  One of the aims of this project is to make appropriate tools for editing and viewing files in the DNU format.
