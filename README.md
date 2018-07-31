@@ -58,6 +58,8 @@ Don't forget that the purpose of any character-separated data format is to trans
 
 **Answer:**  In other words, this table would _describe_ the ASCII standard _in_ the ASCII standard to a program which already _uses_ the ASCII standard.  Apparently, this is a pressing problem which happens all the time in The Year of Our Lord Two Thousand and Whatevs.
 
+This objection, the previous objection, and so many other objections against proper ASCII-delimited text can be, not just answered, but obviated by noting the typical use cases of any character-delimited file format.
+
 **Objection:**  “There are no dedicated keys for these delimiters on any keyboard and there is no way to easily type these delimiters using a text editor.”
 
 **Answer:**  Granted, most editors cannot do so, but several do.  More to the point, the problems of quoting delimiters is evidence that text editors were always the wrong tool for the job.  As much as some of us nerds look down on it, the spreadsheet application was always the proper way to deal with tabular data—even if they were invented fifteen years too late.  One of the aims of this project is to make appropriate tools for editing and viewing files in the DNU format.
