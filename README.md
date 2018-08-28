@@ -87,6 +87,7 @@ Possibly-Related Software:
 - [csvfaker](https://github.com/pereorga/csvfaker) is a Python program that generates CSV files with fake data.  It is part of D. Bohdan's [list](https://github.com/dbohdan/structured-text-tools) of structured text tools.  [(Hacker News Discussion)](https://news.ycombinator.com/item?id=11649142)
 - [q](http://harelba.github.io/q/) is a command line tool that allows direct execution of SQL-like queries on CSVs/TSVs (and any other tabular text files).
 - [txt-sushi](http://keithsheppard.name/txt-sushi/) is a collection of command line utilities for processing comma-separated and tab-delimited files.
+- [Tom's Obvious, Minimal Language](https://github.com/toml-lang/toml) is a minimal configuration file format which is similar to JSON.
 
 Problems with CSV Files:
 
