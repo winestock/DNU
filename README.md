@@ -89,6 +89,7 @@ Possibly-Related Software:
 - [txt-sushi](http://keithsheppard.name/txt-sushi/) is a collection of command line utilities for processing comma-separated and tab-delimited files.
 - [Tom's Obvious, Minimal Language](https://github.com/toml-lang/toml) is a minimal configuration file format which is similar to JSON.  [(Hacker News Discussion)](https://news.ycombinator.com/item?id=17513770)
 - [Jsonnet](https://jsonnet.org/) is similar to TOML.  [(Hacker News Discussion)](https://news.ycombinator.com/item?id=17363871)
+- [Dhall](https://github.com/dhall-lang/dhall-lang) is a non-Turing-complete configuration language.  [(Hacker News Discussion)](https://news.ycombinator.com/item?id=15185015)
 
 Problems with CSV Files:
 
