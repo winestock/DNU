@@ -90,6 +90,7 @@ Possibly-Related Software:
 - [Tom's Obvious, Minimal Language](https://github.com/toml-lang/toml) is a minimal configuration file format which is similar to JSON.  [(Hacker News Discussion)](https://news.ycombinator.com/item?id=17513770)
 - [Jsonnet](https://jsonnet.org/) is similar to TOML.  [(Hacker News Discussion)](https://news.ycombinator.com/item?id=17363871)
 - [Dhall](https://github.com/dhall-lang/dhall-lang) is a non-Turing-complete configuration language.  [(Hacker News Discussion)](https://news.ycombinator.com/item?id=15185015)
+- [Comma Separated (Named) Values, Version: 1.1](https://csv11.github.io/) bills itself as “CSV Evolved (for Humans)—Easy-to-Write, Easy-to-Read.”  The [discussion on Hacker News](https://news.ycombinator.com/item?id=18190607) has some good links.
 
 Problems with CSV Files:
 
