@@ -101,6 +101,7 @@ Problems with CSV Files:
 - [Dangers of CSV Injection](http://georgemauer.net/2017/10/07/csv-injection.html) [(Hacker News Discussion)](https://news.ycombinator.com/item?id=15438894)
 - [Design and Implementation of CSV/Excel Upload for SaaS](http://www.kalzumeus.com/2015/01/28/design-and-implementation-of-csvexcel-upload-for-saas/) [(Hacker News Discussion)](https://news.ycombinator.com/item?id=8960280)  Key Quote: “It is _hellaciously_ difficult to do CSV import well in the general case.”
 - [DataHub's overview](https://datahub.io/docs/data-packages/csv#what-is-bad-about-csv) of what is wrong with CSV.
+- [CSV Is Not A Standard](https://chriswarrick.com/blog/2017/04/07/csv-is-not-a-standard/) Chris Warrick points out that RFC 4180, itself, denies that it is a standard.
 
 Other Links:
 
