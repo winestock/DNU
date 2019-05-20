@@ -93,6 +93,7 @@ Possibly-Related Software:
 - [Comma Separated (Named) Values, Version: 1.1](https://csv11.github.io/) bills itself as “CSV Evolved (for Humans)—Easy-to-Write, Easy-to-Read.”  The [discussion on Hacker News](https://news.ycombinator.com/item?id=18190607) has some good links.
 - [JSON Text Sequences](https://tools.ietf.org/html/rfc7464) combines ASCII delimiters with JSON in order to make parsing very large JSON files tractable.  I learned of it from [this](https://twitter.com/technomancy/status/907656943069736960) Twitter thread.
 - [TextQL](https://github.com/dinedal/textql) allows one to execute SQL queries against CSV or TSV files.
+- The structure which the [UXY](https://github.com/sustrik/uxy) project adds to Unix tools is similar in spirit to this project.  [(Hacker News Discussion)](https://news.ycombinator.com/item?id=19954195)
 
 Problems with CSV Files:
 
