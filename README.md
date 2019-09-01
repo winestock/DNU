@@ -94,6 +94,7 @@ Possibly-Related Software:
 - [JSON Text Sequences](https://tools.ietf.org/html/rfc7464) combines ASCII delimiters with JSON in order to make parsing very large JSON files tractable.  I learned of it from [this](https://twitter.com/technomancy/status/907656943069736960) Twitter thread.
 - [TextQL](https://github.com/dinedal/textql) allows one to execute SQL queries against CSV or TSV files.
 - The structure which the [UXY](https://github.com/sustrik/uxy) project adds to Unix tools is similar in spirit to this project.  [(Hacker News Discussion)](https://news.ycombinator.com/item?id=19954195)
+- eBay has written [an entire suite](https://ebay.github.io/tsv-utils/) of TSV tools in the D programming language.  [(Hacker News Discussion)](https://news.ycombinator.com/item?id=20848581)
 
 Problems with CSV Files:
 
