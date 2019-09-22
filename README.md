@@ -95,6 +95,7 @@ Possibly-Related Software:
 - [TextQL](https://github.com/dinedal/textql) allows one to execute SQL queries against CSV or TSV files.
 - The structure which the [UXY](https://github.com/sustrik/uxy) project adds to Unix tools is similar in spirit to this project.  [(Hacker News Discussion)](https://news.ycombinator.com/item?id=19954195)
 - eBay has written [an entire suite](https://ebay.github.io/tsv-utils/) of TSV tools in the D programming language.  [(Hacker News Discussion)](https://news.ycombinator.com/item?id=20848581)
+- [cq](https://github.com/jolmg/cq) is another program that allows one to query CSV files using SQL.  [(Hacker News Discussion)](https://news.ycombinator.com/item?id=21028021)
 
 Problems with CSV Files:
 
