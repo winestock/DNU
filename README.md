@@ -98,6 +98,7 @@ Possibly-Related Software:
 - [cq](https://github.com/jolmg/cq) is another program that allows one to query CSV files using SQL.  [(Hacker News Discussion)](https://news.ycombinator.com/item?id=21028021)
 - [RAWGraphs](https://rawgraphs.io/) is “the missing link between spreadsheets and data visualization.”  It handles both CSV and TSV files.  [(Hacker News Discussion)](https://news.ycombinator.com/item?id=21695561)
 - [qsv](https://github.com/jqnatividad/qsv) is written in Rust and specializes in analyzing CSV files. [(Hacker News Discussion)](https://news.ycombinator.com/item?id=38733617)
+- [csvlens](https://github.com/YS-L/csvlens) is written in Rust.  It's like less, but for CSV files.  [(Hacker News Discussion)](https://news.ycombinator.com/item?id=38889820)
 
 Problems with CSV Files:
 
